@@ -96,6 +96,11 @@
   align-self: flex-start;
 }
 
+/* 9. exercice-margin-auto */
+.exercice-margin-auto .container {
+  display: flex;
+}
 
-/* 8. exercice-margin-auto */
-
+.exercice-margin-auto .element-red {
+  margin: auto;
+}
