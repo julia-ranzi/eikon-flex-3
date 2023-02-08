@@ -30,7 +30,17 @@
 
 
 /* 4. exercice-order-3 */
+.exercice-order-3 .container {
+  display: flex;
+}
 
+.exercice-order-3 .element-blue {
+  order: -1;
+}
+
+.exercice-order-3 .element-green {
+  order: 1;
+}
 
 /* 5. exercice-align-self-1*/
 
